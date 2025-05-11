@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-code-notes-src-templates-tag-page-js",
+    "path": "/tag/example",
+    "result": {"data":{"allMdx":{"edges":[{"node":{"id":"1b15777f-741b-582b-adb4-eab0d019ca42","frontmatter":{"title":"Example note","tags":["example"],"emoji":"👋","modified":"April 23, 2021","modifiedTimestamp":"2021-04-23T00:00:00.000Z"},"fields":{"slug":"/example-note"}}}]}},"pageContext":{"tag":"example","tags":[{"tag":"example","totalCount":1,"slug":"/example","path":"/tag/example"},{"tag":"paper","totalCount":1,"slug":"/paper","path":"/tag/paper"}],"hasUntagged":false,"basePath":"/"}},
+    "staticQueryHashes": ["1308211557","2744905544","467212769"]}
