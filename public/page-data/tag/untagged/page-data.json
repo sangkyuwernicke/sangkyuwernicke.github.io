@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-code-notes-src-templates-untagged-tag-page-js",
+    "path": "/tag/untagged",
+    "result": {"data":{"allMdx":{"edges":[{"node":{"id":"088da5d3-452a-5ff1-881c-a87b32d4351c","frontmatter":{"title":"","tags":null,"emoji":null,"modified":null,"modifiedTimestamp":null},"fields":{"slug":"/paper-study-haic-2505111524"}}}]}},"pageContext":{"tag":"untagged","tags":[{"tag":"example","totalCount":1,"slug":"/example","path":"/tag/example"}],"hasUntagged":true,"basePath":"/"}},
+    "staticQueryHashes": ["1308211557","2744905544","467212769"]}
