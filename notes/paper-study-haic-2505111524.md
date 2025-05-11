@@ -2,6 +2,7 @@
 title: Study on Human-AI Collaboration
 tags:
   - paper
+emoji: >
 modified: 2025-05-11
 ---
 
