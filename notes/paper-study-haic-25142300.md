@@ -1,5 +1,5 @@
 ---
-title: ChatCollab: Exploring Collaboration Between Humans and AI Agents in Software Teams
+title: ChatCollab; Exploring Collaboration Between Humans and AI Agents in Software Teams
 tags:
   - paper
 emoji: >
