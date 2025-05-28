@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---node-modules-gatsby-theme-code-notes-src-templates-tag-page-js",
+    "path": "/tag/code",
+    "result": {"data":{"allMdx":{"edges":[{"node":{"id":"13f35173-b764-514d-b534-6ac137e8c6f2","frontmatter":{"title":"HelloWorld()","tags":["code"],"emoji":"👋","modified":"May 20, 2025","modifiedTimestamp":"2025-05-20T00:00:00.000Z"},"fields":{"slug":"/example-note"}}}]}},"pageContext":{"tag":"code","tags":[{"tag":"code","totalCount":1,"slug":"/code","path":"/tag/code"},{"tag":"paper","totalCount":4,"slug":"/paper","path":"/tag/paper"}],"hasUntagged":false,"basePath":"/"}},
+    "staticQueryHashes": ["1308211557","2744905544","467212769"]}
