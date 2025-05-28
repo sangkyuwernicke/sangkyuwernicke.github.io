@@ -1,13 +1,13 @@
 ---
-title: Example note
+title: HelloWorld()
 tags:
-  - example
+  - code
 emoji: 👋
-link: https://zander.wtf
-modified: 2021-04-23
+link: https://sangkyuwernicke.github.io
+modified: 2025-05-20
 ---
 
-This is an example note, see below for some code.
+This is a sample code, see below.
 
 ```js
 {
