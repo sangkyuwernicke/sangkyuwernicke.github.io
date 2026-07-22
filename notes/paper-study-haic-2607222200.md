@@ -6,6 +6,8 @@ emoji: >
 modified: 2026-07-22
 ---
 
+http://sangkyuwernicke.github.io/survey202607.html
+
 # 트레이딩 AI 에이전트 서베이: 2026년 5~7월 최신 연구 동향
 
 **작성일:** 2026-07-22
