@@ -2,6 +2,7 @@
 title: 2026년 5~7월 트레이딩 AI 에이전트 최신 연구 서베이
 tags:
   - paper
+link: https://sangkyuwernicke.github.io/report/survey2607
 emoji: >
 modified: 2026-07-22
 ---
